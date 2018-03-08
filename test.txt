@@ -1,3 +1,5 @@
 editing
 
 new edit
+
+make changes for gir bash
