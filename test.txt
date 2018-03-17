@@ -2,4 +2,8 @@ editing
 
 new edit
 
+<<<<<<< HEAD
 make changes git bash
+=======
+make changes for gir bash
+>>>>>>> c2d44557727b5b83e3a5cec9e3c67f956b45078a
